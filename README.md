@@ -28,7 +28,7 @@ This tool uses the native function ENTITY::ATTACH_ENTITY_TO_ENTITY to attach the
 ## Example
 #### By default when you attach the prop gr_prop_gr_drill_01a, it is misaligned with the player's hand:
 
-![Image Not Available](https://i.ibb.co/PYrHVNW/Screenshot-2022-01-01-164610.png)
+![Image Not Available](https://i.ibb.co/nrFXK5X/Screenshot-2022-01-01-175444.png)
 
 #### After aligning it, you can make it look like the player is actually holding it:
 

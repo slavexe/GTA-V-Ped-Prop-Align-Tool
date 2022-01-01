@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ped Prop Align Tool", "Ped Prop Align Tool\Ped Prop Align Tool.csproj", "{13860667-E21D-499F-BCCF-C75EC55FA6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13860667-E21D-499F-BCCF-C75EC55FA6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13860667-E21D-499F-BCCF-C75EC55FA6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13860667-E21D-499F-BCCF-C75EC55FA6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13860667-E21D-499F-BCCF-C75EC55FA6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7F81EA1-4E6D-40A3-AF70-351D4F89C579}
+	EndGlobalSection
+EndGlobal

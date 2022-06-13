@@ -1,3 +1,4 @@
+# This project has been improved and merged into [Slav Menu](https://github.com/slavexe/Slav-Menu)
 # GTA-V-Ped-Prop-Align-Tool
 ![Image Not Available](https://i.ibb.co/Zh1DHZw/Screenshot-2022-01-01-163939.png)
 
